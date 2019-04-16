@@ -1,0 +1,85 @@
+{
+"links": [
+
+{"source":"Automobiles","target":"Countries","value":"10"},
+{"source":"Automobiles","target":"Brands","value":"30"},
+
+{"source":"Countries","target":"Germany","value":"1"},
+{"source":"Countries","target":"Japan","value":"1"},
+{"source":"Countries","target":"United States","value":"1"},
+{"source":"Countries","target":"China","value":"1"},
+{"source":"Countries","target":"United Kingdom","value":"1"},
+{"source":"Countries","target":"Italy","value":"1"},
+{"source":"Countries","target":"France","value":"1"},
+{"source":"Countries","target":"Sweden","value":"1"},
+{"source":"Countries","target":"India","value":"1"},
+{"source":"Countries","target":"Other","value":"1"},
+
+{"source":"Brands","target":"Brand Values","value":"10"},
+
+{"source":"Brands","target":"Toyota","value":"1"},
+{"source":"Brands","target":"Volkswagen","value":"1"},
+{"source":"Brands","target":"General Motors","value":"1"},
+{"source":"Brands","target":"Ford","value":"1"},
+{"source":"Brands","target":"Nissan","value":".5"},
+{"source":"Brands","target":"Honda","value":".5"},
+{"source":"Brands","target":"Renault","value":"1"},
+{"source":"Brands","target":"Suzuki","value":"1"},
+{"source":"Brands","target":"SAIC","value":"1"},
+{"source":"Brands","target":"Daimler","value":"1"},
+{"source":"Brands","target":"BMW","value":"1"},
+
+{"source":"Brand Values","target":"Compact & Subcompact","value":"3"},
+{"source":"Brand Values","target":"Midsize Sedan","value":"3"},
+{"source":"Brand Values","target":"Large Cars","value":"2"},
+{"source":"Brand Values","target":"Luxury Cars","value":"1"},
+{"source":"Brand Values","target":"Other Cars","value":"1"},
+
+{"source":"Brands","target":"Types of cars","value":"10"},
+{"source":"Types of cars","target":"Compact & Subcompact","value":"4"},
+{"source":"Types of cars","target":"Midsize Sedan","value":"2"},
+{"source":"Types of cars","target":"Large Cars","value":"1"},
+{"source":"Types of cars","target":"Luxury Cars","value":"2"},
+{"source":"Types of cars","target":"Other Cars","value":"1"},
+
+{"source":"Nissan","target":"Japan","value":"1"},
+{"source":"Honda","target":"Japan","value":"1"}
+
+
+] ,
+"nodes": [
+{"name":"Automobiles"},
+{"name":"Types of cars"},
+{"name":"Countries"},
+{"name":"Brands"},
+{"name":"Brand Values"},
+
+{"name":"Germany"},
+{"name":"Japan"},
+{"name":"United States"},
+{"name":"China"},
+{"name":"United Kingdom"},
+{"name":"Italy"},
+{"name":"France"},
+{"name":"Sweden"},
+{"name":"India"},
+{"name":"Other"},
+
+{"name":"Compact & Subcompact"},
+{"name":"Midsize Sedan"},
+{"name":"Large Cars"},
+{"name":"Luxury Cars"},
+{"name":"Other Cars"},
+
+{"name":"Toyota"},
+{"name":"Volkswagen"},
+{"name":"General Motors"},
+{"name":"Ford"},
+{"name":"Nissan"},
+{"name":"Honda"},
+{"name":"Renault"},
+{"name":"Suzuki"},
+{"name":"SAIC"},
+{"name":"Daimler"},
+{"name":"BMW"}
+] }
